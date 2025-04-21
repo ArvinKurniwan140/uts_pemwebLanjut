@@ -49,7 +49,7 @@ const Projects = ({ darkMode }) => {
       image: "/porto.png",
       category: "web",
       liveDemo: "#",
-      github: "#"
+      github: "https://github.com/ArvinKurniwan140/uts_pemwebLanjut"
     }
   ];
 
